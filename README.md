@@ -1,8 +1,6 @@
 # -SHARE the FARE
 SHARE the FARE - Feed those who are in hunger
 
-<br><br>
-
 **Give Back Hacks 2020 (Nov 21 - Nov 22)**
 <br>
 Powered by: MLH
