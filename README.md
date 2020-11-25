@@ -1,5 +1,7 @@
-# -SHARE the FARE
-SHARE the FARE - Feed those who are in hunger
+# SHARE the FARE - Feed those who are in hunger
+Android Mobile Application to request and donate food...
+<br>
+More descriptive information can be found on Devpost Porject Description.
 
 **Give Back Hacks 2020 (Nov 21 - Nov 22)**
 <br>
